@@ -1,0 +1,26 @@
+{
+  "logo": {
+    "type": "none"
+  },
+  "display": {
+    "separator": "  →  "
+  },
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "kernel",
+    "uptime",
+    "shell",
+    "display",
+    "wm",
+    "terminal",
+    "cpu",
+    "gpu",
+    "memory",
+    "disk",
+    "battery",
+    "separator",
+    "colors"
+  ]
+}
