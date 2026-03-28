@@ -1,6 +1,6 @@
 Personal Hyprland setup on Fedora Linux
 
-##Stack 
+## Stack 
 - **WM:** Hyprland
 - **Terminal:** Kitty
 - **Bar:** Waybar
