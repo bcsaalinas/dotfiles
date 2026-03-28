@@ -9,4 +9,4 @@ Personal Hyprland setup on Fedora Linux
 - **Wallpaper:** Hyprpaper
 - **Prompt:** chromatic
 
-Simple dark themed with pink accents 
+Simple dark themed with pink accents, every new terminal opens with a random shiny pokemon as ASCII art, and fasfetch system info
