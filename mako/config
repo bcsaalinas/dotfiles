@@ -1,0 +1,12 @@
+font=Inter 13
+background-color=#0a0a0a
+text-color=#f48fb1
+border-color=#f48fb1
+border-size=1
+border-radius=8
+padding=12
+margin=8
+width=300
+height=100
+anchor=top-right
+default-timeout=4000
